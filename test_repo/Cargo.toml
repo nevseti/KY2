@@ -1,0 +1,8 @@
+[package]
+name = "dummy"
+version = "0.1.0"
+
+[dependencies]
+serde = "1.0"
+rand = "0.8"
+regex = { version = "1.5", features = ["std"] }
